@@ -25,14 +25,14 @@ body{
 }
 
 .slide-image2{
-  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/king.jpeg);
+  background:url(../IMGS/king.jpeg);
   background-size: cover;
   height: 60vh;
   background-position: center;
 }
 
 .slide-image3{
-  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/moana.jpeg);
+  background:url(../IMGS/moana.jpeg);
   background-size: cover;
   height: 60vh;
   background-position: center;
