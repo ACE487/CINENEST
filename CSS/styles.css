@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Signika+Negative:wght@300..700&display=swap'); 
+*{
+  padding: o;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Signika Negative", serif;
+}
+
+p,a,li{
+  font-family: "Open Sans", serif;
+}
+
+body{
+  background-color: black;
+}
+
+.slide-image{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/sonic.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+
+.slide-image2{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/king.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+
+.slide-image3{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/moana.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+
+.cal-txt{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding: 50px;
+}
+
+.myca{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/moana.jpeg);
+  background-size: cover;
+  height: 28vh;
+  background-position: center;
+}
+.myca{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/back.jpeg);
+  background-size: cover;
+  height: 28vh;
+  background-position: center;
+}
+.myca2{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/blue.jpeg);
+  background-size: cover;
+  height: 58vh;
+  background-position: center;
+}
+
+.myca1{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/den.jpeg);
+  background-size: cover;
+  height: 28vh;
+  background-position: center;
+}
+.myca3{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/man.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+.myca4{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/us.jpeg);
+  background-size: cover;
+  height: 65vh;
+  background-position: center;
+}
+.myca5{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/talk.jpeg);
+  background-size: cover;
+  height: 68vh;
+  background-position: center;
+}
+.myca6{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/every.jpeg);
+  background-size: cover;
+  height: 70vh;
+  background-position: center;
+}
+
+.action {
+  width: 80%;
+  margin: auto;
+}
+
+.m-txt {
+  font-size: 10pt;
+
+}
+
+.my-txt {
+  font-size: 15pt;
+  font-weight: 600;
+}
